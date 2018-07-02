@@ -1,6 +1,6 @@
 # Andriod Soundboard app
 
-This is a sounboard app that was used to create 2 apps. It allows users to favorite sounds and set them as the user's ringtone and alarm. 
+This is a sounboard app that was used to create 2 apps. It allows users to favorite sounds and set them as the user's ringtone, notification sound and alarm.
 
 ### Apps created using this
 #### Lil Pump Soundboard
