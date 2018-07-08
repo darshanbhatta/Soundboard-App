@@ -10,7 +10,7 @@ This is a soundboard app that was used to create 2 apps. It allows users to favo
 
 #### Lil Pump Soundboard
 
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="64" width="171" alt="Play Store Link">
+<a href="https://play.google.com/store/apps/details?id=com.darshan.lilpumpsoundboard&hl=en_US"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="64" width="171" alt="Play Store Link">
 
 
 
@@ -18,7 +18,7 @@ This is a soundboard app that was used to create 2 apps. It allows users to favo
 
 #### Ugandan Knuckles Soundboard
 
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="64" width="171" alt="Play Store Link">
+<a href="https://play.google.com/store/apps/details?id=com.darshan.ugandanknucklessoundboard"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="64" width="171" alt="Play Store Link">
 
 
 
