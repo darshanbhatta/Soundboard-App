@@ -1,6 +1,7 @@
 # Android Soundboard app
 
-
+## This project is no longer maintained.
+<br>
 
 This is a soundboard app that was used to create 2 apps. It allows users to favorite sounds and set them as the user's ringtone, notification sound and alarm.
 
